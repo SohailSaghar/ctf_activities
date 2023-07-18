@@ -64,7 +64,7 @@ for i in range(32):  # setting a constraint that the letters will be ascii
 
 simulation = project.factory.simgr(state) # veritesting=True
 
-print(simulation.active[0]) # find offset. 
+print(proj.loader.min_addr) # find offset. 
 
 simulation.explore(find=is_successful, avoid=should_abort)
 
