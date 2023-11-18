@@ -28,6 +28,8 @@ Nu var ideen at finde dette i det udleveret binary, hvor at prefixet HKN{ også 
 
 ![gravitysetting](./gravitysetting.png)
 
+![nopnop](./nopnop.png)
+
 Nu kan spillet spilles uden at have gravity.
 
 ![flying](./flying.png)
