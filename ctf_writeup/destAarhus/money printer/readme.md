@@ -1,5 +1,7 @@
 ## Description
 
+You might be interested in this flag I've found. I'll sell it to you. What might a flag be worth??? Hmm.... let's say 1.000.000$
+
 File: [money_printer](./money_printer)
 
 ## Start
