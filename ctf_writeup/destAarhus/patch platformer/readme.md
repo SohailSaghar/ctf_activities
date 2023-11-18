@@ -49,3 +49,5 @@ Her tjekker den så om mit input er rigtigt og giver flaget. Der sker comparison
 Skriver man dette i spillet får man flaget
 
 `HKN{jWUNeLspYFYlyHSYVDO19fTKBuPhrJE}`
+
+![endscreen](./endscreen.png)
