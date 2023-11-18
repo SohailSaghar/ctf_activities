@@ -1,5 +1,9 @@
 ## Description
 
+Welcome to the first game produced by Fumble Studio; they want you to be the tester of their new game, Patch Platformer.
+
+Complete the game and be rewarded with a flag; get the game here:
+
 File: [patch_platform](./patch_platform)
 
 ## Start
